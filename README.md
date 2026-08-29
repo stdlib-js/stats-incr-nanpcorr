@@ -80,7 +80,7 @@ r = \frac{\displaystyle\sum_{i=0}^{n-1} (x_i - \bar{x})(y_i - \bar{y})}{\display
 ## Usage
 
 ```javascript
-import incrnanpcorr from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-nanpcorr@esm/index.mjs';
+import incrnanpcorr from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-nanpcorr@v0.0.0-esm/index.mjs';
 ```
 
 #### incrnanpcorr( \[mx, my] )
@@ -150,7 +150,7 @@ v = accumulator();
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import incrnanpcorr from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-nanpcorr@esm/index.mjs';
+import incrnanpcorr from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-nanpcorr@v0.0.0-esm/index.mjs';
 
 var accumulator;
 var r;
