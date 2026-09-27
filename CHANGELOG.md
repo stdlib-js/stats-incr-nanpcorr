@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-04)
+## Unreleased (2026-09-27)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`d530db8`](https://github.com/stdlib-js/stdlib/commit/d530db81e60c5f65ba53a13fd46191208d2a4c89) - **test:** migrate `stats/incr/nanpcorr` to ULP-based assertions [(#15589)](https://github.com/stdlib-js/stdlib/pull/15589) _(by Athan Reines)_
 -   [`afc9d5b`](https://github.com/stdlib-js/stdlib/commit/afc9d5b13a67ea694d225c5115d6ac3f1772caa7) - **docs:** clean-up [(#13435)](https://github.com/stdlib-js/stdlib/pull/13435) _(by Philipp Burckhardt)_
 -   [`8be93a5`](https://github.com/stdlib-js/stdlib/commit/8be93a51605e91aa1b1d94ad7d61212ab246cd21) - **feat:** add `stats/incr/nanpcorr` [(#6092)](https://github.com/stdlib-js/stdlib/pull/6092) _(by Girish Garg, Philipp Burckhardt, stdlib-bot)_
 
@@ -47,8 +48,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Girish Garg
 -   Philipp Burckhardt
 
